@@ -62,7 +62,14 @@
         "2025: Ted King and Chase Wark rode unsupported FKT attempts, raising $8K+ for wildfire relief",
         "2026: New format splits pro race (Friday) from amateur race (Saturday) for safety"
       ],
-      "reputation": "The unofficial U.S. gravel season opener. Known for Bobby's finish-line hugs, unpredictable weather, iconic red clay, and one of gravel's strongest community vibes. The DFL (Dead F*cking Last) rider gets a giant steer skull trophy and massive celebration."
+      "reputation": "The unofficial U.S. gravel season opener. Known for Bobby's finish-line hugs, unpredictable weather, iconic red clay, and one of gravel's strongest community vibes. The DFL (Dead F*cking Last) rider gets a giant steer skull trophy and massive celebration.",
+      "random_facts": [
+        "Bobby Wintle hugs every single finisher. Started year one when he embraced the first rider across the line. Now it's the tradition people come back for.",
+        "The unofficial U.S. gravel season opener. Pros use it to kick off their calendar. The $100K prize purse brings the fastest field.",
+        "Weather does whatever Oklahoma wants. Some years it's 75° and perfect. Some years it's 30° with ice. One year cancelled by wildfires.",
+        "Grew from 121 riders in 2013 to 2,500+ today. The DFL (Dead F*cking Last) rider gets a giant steer skull trophy and the biggest cheer of the day.",
+        "Red clay becomes unrideable when wet. The iconic Oklahoma dirt roads turn to adhesive mud that stops bikes dead. When dry, it's fast and tactical."
+      ]
     },
     
     "course_description": {
@@ -138,6 +145,7 @@
     
     "biased_opinion": {
       "verdict": "Personality Cult (Positive)",
+      "quote": "The Mid South is what happens when someone builds a gravel race around unreasonable hospitality instead of unreasonable suffering.",
       "summary": "The Mid South is what happens when someone builds a gravel race around unreasonable hospitality instead of unreasonable suffering. Bobby Wintle hugs every finisher. The DFL gets the biggest trophy. The community shows up like their lives depend on it. And the weather? The weather does whatever Oklahoma wants. When it's dry, you get a blazing-fast tactical race. When it's wet, you get an unrideable mud nightmare. Either way, you finish to live music, local beer, and a town that genuinely wants you there. This isn't the hardest gravel race. It's not the longest. But it might be the one with the biggest heart.",
       "strengths": [
         "Bobby's finish-line hug for every single rider—legendary and authentic",
@@ -171,6 +179,10 @@
       "one_liner": "The early-season gravel race with the biggest heart and the most unpredictable conditions.",
       "should_you_race": "If you value community, celebration, and authentic hospitality over predictable racing conditions—yes, absolutely. If you need to know what you're getting into before you commit—maybe reconsider. The Mid South is chaos wrapped in a Bobby hug. Some years it's fast and perfect. Some years it's a mud disaster. Some years it gets cancelled by wildfires. But the people who come back year after year aren't coming for the course—they're coming for the experience. Show up ready for anything. Leave with stories.",
       "alternatives": "If you want the prestige without the weather lottery: try Unbound (harder but more predictable). If you want tactical short-course racing without the mud risk: try Gravel Locos (Texas, also 100mi, drier climate). If you want community vibe with better logistics: try Belgian Waffle Ride (San Diego, also chaotic but easier to access)."
+    },
+    "tldr": {
+      "should_race_if": "You value community and authentic hospitality over predictable conditions. You're ready for weather chaos, red clay gambles, and finishing to Bobby Wintle's legendary hug.",
+      "skip_if": "You need to know exactly what you're getting into before you commit. The Mid South's weather lottery means every edition is different."
     },
     
     "logistics": {
